@@ -18,5 +18,8 @@
   "homepage": "https://github.com/santiagov916/jest-another-rpg#readme",
   "devDependencies": {
     "jest": "^27.4.3"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.0"
   }
 }
